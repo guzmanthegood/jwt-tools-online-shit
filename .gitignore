@@ -1,0 +1,4 @@
+*.exe
+/vendor
+debug
+/config/env/*.toml
